@@ -1,10 +1,10 @@
-h1 {
+.count {
     color: #27aedb;
     text-align: center;
     }
     
 
-button{
+.increment-button{
     color: #27aedb;
     text-align: center;
     justify-content: center;
